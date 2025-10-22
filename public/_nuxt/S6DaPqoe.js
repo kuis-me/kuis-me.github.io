@@ -1,0 +1,1 @@
+import{k as a,o as _,w as s,_ as c,v as p,b as t,H as r}from"#entry";import{_ as m}from"./o3g7sNdC.js";import{_ as u}from"./DlAUqK2U.js";import"./BwT3rymJ.js";const d={components:{PwaUpdateButton:m}};function f(i,x,l,w,B,$){const o=p("PwaUpdateButton"),n=r,e=c;return _(),a(e,null,{default:s(()=>[t(o),t(n)]),_:1})}const h=u(d,[["render",f]]);export{h as default};
