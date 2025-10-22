@@ -1,0 +1,1 @@
+import{f as a,i as o,c as n,o as s,t,m as r}from"#entry";const p=a({__name:"index",setup(c){const e=o();return console.log(e.params.id),(i,l)=>(s(),n("div",null," halaman "+t(r(e).params.id),1))}});export{p as default};

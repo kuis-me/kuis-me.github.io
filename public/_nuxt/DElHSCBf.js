@@ -1,0 +1,1 @@
+const i=defineEventHandler(t=>{const s=t.path;e(s)});function e(t){if(t.includes(".")){const s=t.split(".").pop()?.toLowerCase();return["png","jpg","jpeg","gif","svg","ico","css","js"].includes(s||"")}return!1}export{i as default};

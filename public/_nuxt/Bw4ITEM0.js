@@ -1,0 +1,1 @@
+import{n as o,c as a,o as n,a as t}from"#entry";const u={__name:"404",setup(r){return setTimeout(()=>{o("/")},2e3),(s,e)=>(n(),a("div",null,[...e[0]||(e[0]=[t("h1",null,"404 - Page Not Found",-1),t("p",null,"Redirecting to homepage...",-1)])]))}};export{u as default};

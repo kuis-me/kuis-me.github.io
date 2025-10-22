@@ -1,0 +1,1 @@
+.nav-left-header{background:#fff;border:2px solid #c7c5c5;border-bottom:0 solid transparent!important;border-top:0 solid transparent!important;height:100%;left:0;padding:40px 0 0 20px;position:fixed;top:0;transform:translate(-100%);transition:transform .3s ease;width:300px;z-index:10}.nav-left-header.open{transform:translate(0)}
