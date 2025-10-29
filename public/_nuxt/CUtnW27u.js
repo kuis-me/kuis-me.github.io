@@ -1,1 +1,0 @@
-import{f as e,B as o,h as n,i as s,c as t,o as c}from"#entry";const a={class:"d-none d-xl-flex gap-2"},f=e({__name:"link",setup(i){return o().public.AppName,n(),s(),(_,r)=>(c(),t("div",a))}});export{f as _};

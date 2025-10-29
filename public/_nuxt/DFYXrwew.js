@@ -1,1 +1,0 @@
-import{r as e,D as a,E as t}from"#entry";import{u as o}from"./CUA_6ykz.js";const l={__name:"bank_soal",setup(r){return o({title:"Bank Soal"}),t(),e(""),a("auth_token"),(s,u)=>null}};export{l as default};
