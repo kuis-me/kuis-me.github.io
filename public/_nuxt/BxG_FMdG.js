@@ -1,0 +1,1 @@
+import{C as t}from"./DSGyqoFQ.js";import{f as o,s as a,c as s,o as c,b as n}from"#entry";import"./BFU05jqY.js";import"./DlAUqK2U.js";const r={class:"p-4"},u=o({__name:"test",setup(m){return a(),(p,_)=>{const e=t;return c(),s("div",r,[n(e)])}}});export{u as default};
