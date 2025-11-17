@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as s,o as t,a as c,aJ as a}from"#entry";const n={},r={class:"body d-flex flex-column min-vh-100 bg-body-custom"},l={class:"container-fluid flex-fill"};function d(e,f){return t(),s("div",r,[c("main",l,[a(e.$slots,"default")])])}const m=o(n,[["render",d]]);export{m as default};
