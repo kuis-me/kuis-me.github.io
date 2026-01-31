@@ -1,1 +1,0 @@
-import{r as e,Z as a,$ as t}from"#entry";import{u as o}from"./BDIs2WX2.js";const l={__name:"bank_soal",setup(r){return o({title:"Bank Soal"}),t(),e(""),a("auth_token"),(s,u)=>null}};export{l as default};
